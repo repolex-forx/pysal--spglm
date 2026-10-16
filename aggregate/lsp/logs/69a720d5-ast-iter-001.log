@@ -1,0 +1,7 @@
+[2026-10-16T03:08:10Z] === AST ITERATION 1 START | repo=pysal/spglm sha=69a720d5 ===
+[2026-10-16T03:08:10Z] [iter=1] PHASE START: ast repo=pysal/spglm sha=69a720d5
+[2026-10-16T03:08:10Z] [iter=1] Building AST aggregate chunks
+[2026-10-16T03:08:23Z] [iter=1] AST chunks built count=1 triples=97225
+[2026-10-16T03:08:23Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/69a720d51ea3fa714b4a8e31f0463a2b4bba7323/.complete
+[2026-10-16T03:08:23Z] [iter=1] PHASE END: ast elapsed_s=13 elapsed_min=0.2
+[2026-10-16T03:08:23Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
