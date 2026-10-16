@@ -1,0 +1,11 @@
+{
+  "org": "pysal",
+  "repo": "spglm",
+  "versions": [
+    {
+      "commit": "69a720d51ea3fa714b4a8e31f0463a2b4bba7323",
+      "tag": "",
+      "parsed_at": "2026-10-16T03:09:51.859856+00:00"
+    }
+  ]
+}
